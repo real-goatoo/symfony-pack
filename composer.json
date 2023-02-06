@@ -1,9 +1,9 @@
 {
-    "name": "certificationy/symfony-pack",
+    "name": "real-goatoo/symfony-pack",
     "type": "certificationy-pack",
     "description": "A series of questions to prepare for the certification Symfony2",
     "keywords": ["symfony", "certification", "test", "exam"],
-    "homepage": "http://github.com/certificationy/symfony-pack",
+    "homepage": "http://github.com/real-goatoo/symfony-pack",
     "license": "MIT",
     "authors": [
         {
